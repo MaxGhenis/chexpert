@@ -4,7 +4,7 @@ chest X-ray classification competition.
 
 Algorithms to explore:
 1. https://github.com/jfhealthcare/Chexpert
-2. https://github.com/Ien001/CheXpert_challenge_2019/blob/master/model/model.py
+2. https://github.com/Ien001/CheXpert_challenge_2019
 
 Other GitHub links in the leaderboard are either also associated with jfhealthcare
 or do not publish code on their GitHub pages.
